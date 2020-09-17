@@ -1,0 +1,6 @@
+# R_CODE_SRA_2020
+
+This code was used to help write the following paper:
+
+ON  THE  CONSTRUCTION  AND  CALIBRATION  OF  ANAGENT-BASED  MODEL  OF  A  CHILD  CARE  CENTRE
+M. G. COJOCARU, D. FLYNN-PRIMROSE, N. HOOVER, E. W. THOMMES
