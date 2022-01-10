@@ -1,12 +1,3 @@
-########################################################################################################################################################
-# DISCLAIMER: This code was written by David C. Howell at the University of Vermont. I've simply added a few extensions and/or reapplied it to fit our situation
-# Author: Dr. David C. Howell
-# Date:  06/28/2015
-# Title: Randomization Test with Multiple Groups
-# Type: R code
-# Source: https://www.uvm.edu/~statdhtx/StatPages/R/RandomizationTestsWithR/RandomOneway/RandomOneway.html
-#########################################################################################################################################################
-
 ###########Description###########
 #This function performs a permutation test based on the Satterthwaite's corrected F-statistic from a one-way ANOVA test assuming unequal variances
 #and produces a histogram of the observed test statistic, along with a superimposed density curve of the theoretical F-distribution for the 
